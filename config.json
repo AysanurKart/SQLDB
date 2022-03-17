@@ -1,0 +1,14 @@
+{
+    "server":"ayshandkubs.database.windows.net",
+    "authentication": {
+        "type":"default",
+        "options": {
+            "userName":"ayshandkubs",
+            "password":"Sisters123"
+        }
+    },
+    "options": {
+        "encrypt": true,
+        "database":"SQLDB"
+    }
+}

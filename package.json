@@ -1,0 +1,22 @@
+{
+  "name": "sqldb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "db_connect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AysanurKart/SQLDB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AysanurKart/SQLDB/issues"
+  },
+  "homepage": "https://github.com/AysanurKart/SQLDB#readme",
+  "dependencies": {
+    "tedious": "^14.3.0"
+  }
+}
